@@ -1,5 +1,0 @@
-module.exports = {
-    SCHEDULED: 'SCHEDULED',
-    COMPLETED: 'COMPLETED',
-    CANCELLED: 'CANCELLED'
-};
